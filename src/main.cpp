@@ -292,7 +292,7 @@ void GROUPING4(float a, float b, float c, float d, char ops[4]){
 }
 
 void GROUPING5(float a, float b, float c, float d, char ops[4]){
-    // a_(b_(c_d))
+    // 
     float w = a, x = b, y = c, z = d, res, res1, res2;
     for(int i = 0; i < 24; i++){
         PERMUTE(i, &a, &b, &c, &d, w, x, y, z);
