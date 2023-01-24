@@ -338,6 +338,7 @@ int main(){
     clock_t start, end;    
     SPLASHSCREEN();
     while(running){
+        setres.clear();
         int ressum = 0;
         int opt;
         cout << "Choose an option (1/2/3):\n";
