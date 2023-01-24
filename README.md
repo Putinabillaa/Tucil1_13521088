@@ -86,7 +86,7 @@ Filename (without extension): test2
 │   README.md
 |
 ├───doc
-|    └──Tucil1_13521088         
+|    └──Tucil1_K2_13521088_Puti Nabilla Aidira.pdf         
 ├───src
 |    └──main.cpp    
 ├───bin
